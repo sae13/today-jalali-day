@@ -1,0 +1,8 @@
+{
+  "name": "Today Jalali Day",
+  "description": "Just shows today day in jalali",
+  "uuid": "today-jalali-day@09133917225.ir",
+  "shell-version": [
+    "45"
+  ]
+}
